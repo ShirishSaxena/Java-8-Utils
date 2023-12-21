@@ -1,0 +1,11 @@
+Contains:
+- ConversionUtils (Lamda8 methods...)
+- ObjectUtils (To check for null and such...)
+- FTPUtils (download, move, upload)
+- SFTPUtils (download, move, upload)
+- Factory method for - FTP/SFTP
+- HibernateUtil (for quering db)
+- ExcelUtis (Generic Parser, Writer)
+- CSVUtils (Generic Parser, Writer)
+- Custom annotations (mostly to load bean depending on application.properties)
+- DateTimeUtils
